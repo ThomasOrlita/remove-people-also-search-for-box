@@ -5,3 +5,6 @@
 1. Download and unpack this extension into a folder
 2. Go to `chrome://extensions`, enable Developer mode
 3. `Load unpacked`, select the folder
+
+## Chrome Web Store
+https://chrome.google.com/webstore/detail/cghpggkibkdhekhnobjelccimccodcpd/
