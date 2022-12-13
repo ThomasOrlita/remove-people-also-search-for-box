@@ -1,7 +1,7 @@
 {
     "name": "Remove \"People Also Search For\" Box",
     "description": "Removes the annoying layout-shifting \"People also search for\" box from Google Search results.",
-    "version": "1.0",
+    "version": "1.0.1",
     "manifest_version": 3,
     "content_scripts": [
         {
